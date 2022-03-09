@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Parallax } from "react-parallax/";
 import { Fade, Reveal } from "react-reveal/";
-const image = require("../../image/multienermex.jpg");
+const image = require("../../image/pipa.png");
 
 class Banner extends Component {
   render() {
